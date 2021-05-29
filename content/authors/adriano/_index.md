@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:adriano.rutz@unige.ch'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/adrianorutz/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Adafede
