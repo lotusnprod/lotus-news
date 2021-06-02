@@ -36,6 +36,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: 'https://orcid.org/0000-0002-7114-8921'
+- icon: youtube
+  icon_pack: ai
+  link: 'https://www.youtube.com/channel/UCjfJ98bVToUPop9w5oBNLdA'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ucayali@uic.edu'
