@@ -16,15 +16,15 @@ design:
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://gitlab.com/lotus7'
-  label: Gitlab Repo
+  url: 'https://github.com/lotusnprod'
+  label: Github Repo
   icon_pack: fab
-  icon: gitlab
+  icon: github
 cta_alt:
-  url: 'https://gitlab.com/lotus7/lotus-processor/-/blob/main/README.adoc'
+  url: 'https://github.com/lotusnprod/lotus-processor/wiki'
   label: View Documentation
   icon_pack: fab
-  icon: gitlab
+  icon: github
 
 
 # Note. An optional note to show underneath the links.
