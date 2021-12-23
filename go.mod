@@ -1,8 +1,8 @@
-module github.com/wowchemy/starter-research-group
+module github.com/wowchemy/wowchemy-hugo-modules/v5
 
 go 1.15
 
-require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210209220000-aa4fe0c75726 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210209220000-aa4fe0c75726 // indirect
-)
+replace github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 => ./wowchemy
+replace github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 => ./wowchemy-cms
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210629192904-559885af86b7
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210629192904-559885af86b7
