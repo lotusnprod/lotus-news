@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: lotus_flower.jpg
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
