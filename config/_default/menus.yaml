@@ -5,22 +5,22 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: ''
     weight: 10
   - name: News
-    url: '#posts'
+    url: 'posts'
     weight: 20
   - name: People
-    url: '#people'
+    url: 'people'
     weight: 30
   - name: Events
-    url: '#event'
+    url: 'event'
     weight: 40
   - name: Publications
-    url: '#publication'
+    url: 'publication'
     weight: 50
   - name: Contact
-    url: '#contact'
+    url: 'contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
