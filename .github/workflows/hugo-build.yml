@@ -3,21 +3,21 @@ name: github pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - main
 
 jobs:
-  deploy:
+  hugo:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 1    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true  # Fetch any Git submodules (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 0.89.4 # currently latest does not work
+          hugo-version: '0.89.4'
           extended: true
 
       - name: Build
