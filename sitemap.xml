@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lotus.nprod.net/event/example/</loc>
+    <loc>https://lotus.nprod.net/talk/example-event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lotus.nprod.net/event/</loc>
@@ -26,7 +26,7 @@
     <loc>https://lotus.nprod.net/post/lotus-is-up-naturalproductsnet/</loc>
     <lastmod>2021-02-16T16:50:33+01:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/pierre-marie-allard/</loc>
+    <loc>https://lotus.nprod.net/authors/pma/</loc>
     <lastmod>2021-02-16T16:50:33+01:00</lastmod>
   </url><url>
     <loc>https://lotus.nprod.net/post/wd-tree-map-antibacterials/</loc>
@@ -41,37 +41,37 @@
     <loc>https://lotus.nprod.net/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/adriano-rutz/</loc>
+    <loc>https://lotus.nprod.net/authors/adriano/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/christoph-steinbeck/</loc>
+    <loc>https://lotus.nprod.net/authors/christoph/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/daniel-mietchen/</loc>
+    <loc>https://lotus.nprod.net/authors/daniel/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/egon-l.-willighagen/</loc>
+    <loc>https://lotus.nprod.net/authors/egon/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/guido-f.-pauli/</loc>
+    <loc>https://lotus.nprod.net/authors/guido/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/jakub-galgonek/</loc>
+    <loc>https://lotus.nprod.net/authors/jakub/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/james-g.-graham/</loc>
+    <loc>https://lotus.nprod.net/authors/james/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/jean-luc-wolfender/</loc>
+    <loc>https://lotus.nprod.net/authors/jlw/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/jiri-vondrasek/</loc>
+    <loc>https://lotus.nprod.net/authors/jiri/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/jonathan-bisson/</loc>
+    <loc>https://lotus.nprod.net/authors/jonathan/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/maria-sorokina/</loc>
+    <loc>https://lotus.nprod.net/authors/maria/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lotus.nprod.net/publication/preprint/</loc>
@@ -83,10 +83,10 @@
     <loc>https://lotus.nprod.net/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/ralf-stephan/</loc>
+    <loc>https://lotus.nprod.net/authors/ralf/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/author/roderic-page/</loc>
+    <loc>https://lotus.nprod.net/authors/roderic/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lotus.nprod.net/tag/source-themes/</loc>
@@ -95,11 +95,13 @@
     <loc>https://lotus.nprod.net/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lotus.nprod.net/admin/</loc>
+  </url><url>
     <loc>https://lotus.nprod.net/contact/</loc>
   </url><url>
     <loc>https://lotus.nprod.net/people/</loc>
   </url><url>
-    <loc>https://lotus.nprod.net/author/arnaud-gaudry/</loc>
+    <loc>https://lotus.nprod.net/authors/arnaud/</loc>
   </url><url>
     <loc>https://lotus.nprod.net/categories/</loc>
   </url>
