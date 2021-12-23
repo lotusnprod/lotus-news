@@ -22,7 +22,7 @@ jobs:
 
       - name: Build
         run: |
-          hugo mod clean
+          # hugo mod clean
           hugo
 
       - name: Deploy
