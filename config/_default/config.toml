@@ -93,3 +93,10 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5"
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5"
+
+# see https://stackoverflow.com/questions/70429317/blogdownserve-site-fails-to-produce-template-site
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
