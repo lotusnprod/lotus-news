@@ -1,5 +1,5 @@
 ---
-title: "Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata"
+title: "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata"
 authors:
 - adriano
 - maria
@@ -15,7 +15,7 @@ authors:
 - jlw
 - jonathan
 - pma
-date: "2019-04-07T00:00:00Z"
+date: "2021-12-024T00:00:00Z"
 doi: "10.1101/2021.02.28.433265"
 
 # Schedule page publish date (NOT publication's date).
@@ -28,13 +28,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata"
+publication: "The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata"
 publication_short: ""
 
-abstract: As contemporary bioinformatic and chemoinformatic capabilities are reshaping natural products research, major benefits could result from an open database of referenced structure-organism pairs. Those pairs allow the identification of distinct molecular structures found as components of heterogeneous chemical matrices originating from living organisms. Current databases with such information suffer from paywall restrictions, limited taxonomic scope, poorly standardized fields, and lack of interoperability. To ensure data quality, references to the work that describes the structure-organism relationship are mandatory. To fill this void, we collected and curated a set of structure-organism pairs from publicly available natural products databases to yield LOTUS (naturaL prOducTs occUrrences databaSe), which contains over 500,000 curated and referenced structure-organism pairs. All the programs developed for data collection, curation, and dissemination are publicly available. To provide unlimited access as well as standardized linking to other resources, LOTUS data is both hosted on Wikidata and regularly mirrored on https://lotus.naturalproducts.net. The diffusion of these referenced structure-organism pairs within the Wikidata framework addresses many of the limitations of currently-available databases and facilitates linkage to existing biological and chemical data resources. This resource represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.
+abstract: Contemporary bioinformatic and chemoinformatic capabilities hold promise to reshape knowledge management, analysis and interpretation of data in natural products research. Currently, reliance on a disparate set of non-standardized, insular, and specialized databases presents a series of challenges for data access, both within the discipline and for integration and interoperability between related fields. The fundamental elements of exchange are referenced structure-organism pairs that establish relationships between distinct molecular structures and the living organisms from which they were identified. Consolidating and sharing such information via an open platform has strong transformative potential for natural products research and beyond. This is the ultimate goal of the newly established LOTUS initiative, which has now completed the first steps toward the harmonization, curation, validation and open dissemination of 750,000+ referenced structure-organism pairs. LOTUS data is hosted on Wikidata and regularly mirrored on https://lotus.naturalproducts.net. Data sharing within the Wikidata framework broadens data access and interoperability, opening new possibilities for community curation and evolving publication models. Furthermore, embedding LOTUS data into the vast Wikidata knowledge graph will facilitate new biological and chemical insights. The LOTUS initiative represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.
 
 # Summary. An optional shortened abstract.
-summary: LOTUS, the first Free and open natural products occurences database.
+summary: LOTUS is a comprehensive collection of documented structure-organism pairs. Within the frame of current computational approaches in Natural Products research and related fields, these documented structure-organism pairs should allow a more complete understanding of organisms and their chemistry.
 
 tags:
 - Source Themes
@@ -44,8 +44,8 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://doi.org/10.1101/2021.02.28.433265
-url_code: 'https://gitlab.com/lotus7'
-url_dataset: 'https://osf.io/hgjdb/'
+url_code: 'https://github.com/lotusnprod'
+url_dataset: 'https://zenodo.org/communities/the-lotus-initiative'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
