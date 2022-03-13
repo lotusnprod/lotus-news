@@ -9,3 +9,5 @@ hero_media: lotus_sheets.png
 ---
 
 This project is currently only available to beta-testers, contact us for more info.
+
+![Lotus Sheets logo](lotus_sheets.png)
