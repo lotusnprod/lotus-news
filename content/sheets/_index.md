@@ -6,6 +6,7 @@ title: Lotus Sheets - Integration of LOTUS with Google Sheets
 #   2 = Compact
 #   3 = Card
 view: 2
+hero_media: lotus_sheets.png
 
 ---
 
