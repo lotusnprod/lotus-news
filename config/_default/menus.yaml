@@ -16,6 +16,9 @@ main:
   - name: Events
     url: 'event'
     weight: 40
+  - name: Slides
+    url: 'slides'
+    weight: 41
   - name: Publications
     url: 'publication'
     weight: 50
