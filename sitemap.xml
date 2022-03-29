@@ -106,5 +106,7 @@
     <loc>https://lotus.nprod.net/categories/</loc>
   </url><url>
     <loc>https://lotus.nprod.net/sheets/</loc>
+  </url><url>
+    <loc>https://lotus.nprod.net/slides/</loc>
   </url>
 </urlset>
