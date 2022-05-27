@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The LOTUS Initiative</title>
+    <link>https://lotus.nprod.net/</link>
+      <atom:link href="https://lotus.nprod.net/index.xml" rel="self" type="application/rss+xml" />
+    <description>The LOTUS Initiative</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lotus.nprod.net/media/icon_hub52889638c655c1dc95ac25ddcd1a92f_84651_512x512_fill_lanczos_center_3.png</url>
+      <title>The LOTUS Initiative</title>
+      <link>https://lotus.nprod.net/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://lotus.nprod.net/talk/example-event/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://lotus.nprod.net/talk/example-event/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata</title>
+      <link>https://lotus.nprod.net/publication/preprint/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lotus.nprod.net/publication/preprint/</guid>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1101/2021.02.28.433265&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1101/2021.02.28.433265&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-summary.js&#34;&gt;&lt;/script&gt;
+        &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1101/2021.02.28.433265&#34; 
+          data-orientation=&#34;horizontal&#34; 
+          class=&#34;plumx-summary&#34; 
+          data-site=&#34;plum&#34; 
+          data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tuto Wd Entry Creation</title>
+      <link>https://lotus.nprod.net/post/tuto-wd-entry-creation/</link>
+      <pubDate>Fri, 28 May 2021 02:26:12 +0200</pubDate>
+      <guid>https://lotus.nprod.net/post/tuto-wd-entry-creation/</guid>
+      <description>&lt;p&gt;A tutorial for manual entry creation on Wikidata. You can follow similar steps for entry editing.&lt;/p&gt;
+&lt;h1 id=&#34;manual-addition-of-a-documented-structure-organism-pair-to-wikidata&#34;&gt;Manual addition of a documented structure-organism pair to Wikidata&lt;/h1&gt;
+&lt;h2 id=&#34;select-a-documented-structure-organism-pair&#34;&gt;Select a documented structure-organism pair&lt;/h2&gt;
+&lt;p&gt;Throughout this demonstration, we are going to use the following example:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/101556657&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trigocherrin A&lt;/a&gt; is found in &lt;a href=&#34;http://gni.globalnames.org/name_strings?search_term=trigonostemon&amp;#43;cherrieri&amp;amp;commit=Search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Trigonostemon cherrieri&lt;/em&gt;&lt;/a&gt;, as stated in &lt;a href=&#34;https://doi.org/10.1021/OL2030907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trigocherrin A, the first natural chlorinated daphnane diterpene orthoester from Trigonostemon cherrieri&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;fetch-the-information-for-the-documented-structure-organism-pair&#34;&gt;Fetch the information for the documented structure-organism pair&lt;/h2&gt;
+&lt;h3 id=&#34;structure&#34;&gt;Structure&lt;/h3&gt;
+&lt;p&gt;Search PubChem for your compound, here &lt;a href=&#34;https://pubchem.ncbi.nlm.nih.gov/#query=%22trigocherrin%20A%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;trigocherrin A&lt;/a&gt;. This leads to &lt;a href=&#34;https://pubchem.ncbi.nlm.nih.gov/compound/101556657&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pubchem.ncbi.nlm.nih.gov/compound/101556657&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-15-54.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;From there, you can fetch the compound&amp;rsquo;s name, InChIKey and InChI as well as its Canonical and Isomeric SMILES.
+Here we keep, respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;* trigocherrin A
+* QOVGHDRCAGYGEB-FFZYJECLSA-N
+* InChI=1S/C38H36Cl2O12/c1-18(2)35(44)27-19(3)37-25-16-24(31(39)40)28(48-32(43)22-12-8-6-9-13-22)36(25,45)33(47-21(5)42)34(17-46-20(4)41)29(49-34)26(37)30(35)51-38(50-27,52-37)23-14-10-7-11-15-23/h6-16,19,26-30,33,44-45H,1,17H2,2-5H3/t19-,26+,27?,28+,29+,30-,33-,34+,35+,36-,37+,38?/m1/s1
+* CC1C2C(C3C4C1(C5=CC(=C(Cl)Cl)C(C5(C(C6(C4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7)OC(O2)(O3)C8=CC=CC=C8)(C(=C)C)O
+* C[C@@H]1C2[C@]([C@H]3[C@H]4[C@]1(C5=CC(=C(Cl)Cl)[C@@H]([C@]5([C@@H]([C@@]6([C@H]4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7)OC(O3)(O2)C8=CC=CC=C8)(C(=C)C)O
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;organism&#34;&gt;Organism&lt;/h3&gt;
+&lt;p&gt;You can check if your organism name is correctly spelled using the Global Names resolver service: &lt;a href=&#34;http://gni.globalnames.org/name_strings?search_term=trigonostemon&amp;#43;cherrieri&amp;amp;commit=Search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://gni.globalnames.org/name_strings?search_term=trigonostemon+cherrieri&amp;amp;commit=Search&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-27-18-40-20.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Alternatively, you can use &lt;a href=&#34;https://github.com/gnames/gnfinder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gnfinder&lt;/a&gt; in your command line interface to check for the spelling of your organism string.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;echo &amp;quot;Trigonostemion cherrieri&amp;quot; | gnfinder find -c -l eng
+
+{
+  &amp;quot;metadata&amp;quot;: {
+    &amp;quot;date&amp;quot;: &amp;quot;2021-02-27T18:44:41.640982+01:00&amp;quot;,
+    &amp;quot;gnfinderVersion&amp;quot;: &amp;quot;v0.11.1&amp;quot;,
+    &amp;quot;withBayes&amp;quot;: true,
+    &amp;quot;tokensAround&amp;quot;: 0,
+    &amp;quot;language&amp;quot;: &amp;quot;eng&amp;quot;,
+    &amp;quot;detectLanguage&amp;quot;: false,
+    &amp;quot;totalWords&amp;quot;: 2,
+    &amp;quot;totalCandidates&amp;quot;: 1,
+    &amp;quot;totalNames&amp;quot;: 1
+  },
+  &amp;quot;names&amp;quot;: [
+    {
+      &amp;quot;cardinality&amp;quot;: 2,
+      &amp;quot;verbatim&amp;quot;: &amp;quot;Trigonostemion cherrieri&amp;quot;,
+      &amp;quot;name&amp;quot;: &amp;quot;Trigonostemion cherrieri&amp;quot;,
+      &amp;quot;odds&amp;quot;: 77581.46698350731,
+      &amp;quot;start&amp;quot;: 0,
+      &amp;quot;end&amp;quot;: 24,
+      &amp;quot;annotationNomenType&amp;quot;: &amp;quot;NO_ANNOT&amp;quot;,
+      &amp;quot;annotation&amp;quot;: &amp;quot;&amp;quot;,
+      &amp;quot;verification&amp;quot;: {
+        &amp;quot;bestResult&amp;quot;: {
+          &amp;quot;dataSourceId&amp;quot;: 1,
+          &amp;quot;dataSourceTitle&amp;quot;: &amp;quot;Catalogue of Life&amp;quot;,
+          &amp;quot;taxonId&amp;quot;: &amp;quot;1575885&amp;quot;,
+          &amp;quot;matchedName&amp;quot;: &amp;quot;Trigonostemon cherrieri Veillon&amp;quot;,
+          &amp;quot;matchedCardinality&amp;quot;: 2,
+          &amp;quot;matchedCanonicalSimple&amp;quot;: &amp;quot;Trigonostemon cherrieri&amp;quot;,
+          &amp;quot;matchedCanonicalFull&amp;quot;: &amp;quot;Trigonostemon cherrieri&amp;quot;,
+          &amp;quot;classificationPath&amp;quot;: &amp;quot;Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Euphorbiaceae|Trigonostemon|Trigonostemon cherrieri&amp;quot;,
+          &amp;quot;classificationRank&amp;quot;: &amp;quot;kingdom|phylum|class|order|family|genus|species&amp;quot;,
+          &amp;quot;classificationIds&amp;quot;: &amp;quot;3939764|3942634|3942724|3942777|3942795|4210752|1575885&amp;quot;,
+          &amp;quot;editDistance&amp;quot;: 1,
+          &amp;quot;stemEditDistance&amp;quot;: 1,
+          &amp;quot;matchType&amp;quot;: &amp;quot;FuzzyCanonicalMatch&amp;quot;
+        },
+        &amp;quot;dataSourcesNum&amp;quot;: 13,
+        &amp;quot;dataSourceQuality&amp;quot;: &amp;quot;HasCuratedSources&amp;quot;,
+        &amp;quot;retries&amp;quot;: 1
+      }
+    }
+  ]
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For misspellings like &lt;em&gt;Trigonstemion cherrieri&lt;/em&gt;, gnfinder can help resolve them, in this case to &lt;em&gt;Trigonostemon cherrieri&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+&lt;p&gt;Make sure that you have the correct &lt;a href=&#34;https://www.doi.org/doi_handbook/Glossary.html#doi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Object Identifier (DOI)&lt;/a&gt; for it.
+For &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1021/OL2030907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trigocherrin A, the first natural chlorinated daphnane diterpene orthoester from Trigonostemon cherrieri&lt;/a&gt;&amp;rdquo;, this is  &lt;strong&gt;10.1021/ol2030907&lt;/strong&gt;. Note that DOIs are uppercase-normalized in Wikidata.&lt;/p&gt;
+&lt;h2 id=&#34;check-for-the-presence-of-your-compound-in-wikidata-a-namecheck_compounda&#34;&gt;Check for the presence of your compound in Wikidata &lt;a name=&#34;check_compound&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Using the compound&amp;rsquo;s InChIKey (i.e. &lt;code&gt;QOVGHDRCAGYGEB-FFZYJECLSA-N&lt;/code&gt; for trigocherrin A), run a SPARQL query to check if your compound is present in Wikidata or not:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-SPARQL&#34;&gt;SELECT ?item ?itemLabel WHERE {
+  VALUES ?classes {
+    wd:Q11173 # chemical compound
+    wd:Q59199015 # group of stereoisomers
+    wd:Q79529 # chemical substance
+    wd:Q17339814 # group of chemical substances
+    wd:Q47154513 # structural class of chemical compounds
+  }
+  ?item wdt:P31 ?classes. # instance of
+  ?item wdt:P235 &#39;QOVGHDRCAGYGEB-FFZYJECLSA-N&#39;
+  SERVICE wikibase:label { bd:serviceParam wikibase:language &amp;quot;[AUTO_LANGUAGE],en&amp;quot;. }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&#34;https://w.wiki/32zU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Try this query&lt;/a&gt;. You can adapt it by replacing the InChIKey with the one for your compound.&lt;/p&gt;
+&lt;p&gt;Alternatively you can use the following Scholia link (replace by your compounds InChIKey) &lt;a href=&#34;https://scholia.toolforge.org/inchikey/QOVGHDRCAGYGEB-FFZYJECLSA-N&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholia.toolforge.org/inchikey/QOVGHDRCAGYGEB-FFZYJECLSA-N&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If your compound is already present on Wikidata, you can directly skip to the &lt;a href=&#34;#add_bio&#34;&gt;Add the biological source information&lt;/a&gt; section below.&lt;/p&gt;
+&lt;h2 id=&#34;add-your-data-manually-to-wikidata-a-nameadd_your_data_manuallya&#34;&gt;Add your data manually to Wikidata &lt;a name=&#34;add_your_data_manually&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;First, if you do not have a Wikidata account already, it is advisable that you create one via &lt;a href=&#34;https://www.wikidata.org/wiki/Special:CreateAccount&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wikidata.org/wiki/Special:CreateAccount&lt;/a&gt;. While an account is not strictly required for manual edits, having one will be useful if you want to contribute more than once, and it helps in getting your contributions recognized. Note that Wikidata accounts are integrated with accounts across the Wikimedia ecosystem, so if you already have an account on, say, any Wikipedia or on Wikispecies, then you can use the same credentials on Wikidata.&lt;/p&gt;
+&lt;p&gt;If you are unfamiliar with how Wikidata works, you can start by reading the Wikidata introduction page &lt;a href=&#34;https://www.wikidata.org/wiki/Wikidata:Introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wikidata.org/wiki/Wikidata:Introduction&lt;/a&gt; and have a look at the Wikidata Tours page &lt;a href=&#34;https://www.wikidata.org/wiki/Wikidata:Tours&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wikidata.org/wiki/Wikidata:Tours&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now that you are all set up, you can go to Wikidata&amp;rsquo;s page for creating new items, &lt;a href=&#34;https://www.wikidata.org/wiki/Special:NewItem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wikidata.org/wiki/Special:NewItem&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-18-03.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;An empty page with a new Wikidata identifier is created&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-18-50.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;add-the-chemical-compound-information-a-nameadd_chemicala&#34;&gt;Add the chemical compound information &lt;a name=&#34;add_chemical&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Create a new statement for &lt;code&gt;is an instance of&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-20-08.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;and select chemical compound (i.e. &lt;a href=&#34;https://www.wikidata.org/wiki/Q11173&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Q11173&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-20-58.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Click &lt;code&gt;publish&lt;/code&gt; to save your changes and make them public.&lt;/p&gt;
+&lt;p&gt;Since you created a new item about an instance of a chemical compound, the user interface will automatically propose to you a set of additional statements commonly found on items about chemical compounds.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-22-44.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;You can then go on and fill these in.&lt;/p&gt;
+&lt;p&gt;Here, we start with the InChIKey.
+Note the little flag which will automatically tell you if you have some problems with the recently created statements.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-24-34.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Here, Wikidata tells us that if we add an InChiKey, we will need to also add an InChI. Logical, but good to have a reminder !&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s go ahead and add the InChI string.&lt;/p&gt;
+&lt;p&gt;Likewise, the addition of an isomeric SMILES string will require us to add a Canonical SMILES.&lt;/p&gt;
+&lt;p&gt;Note that you might have to copy and paste the SMILES string from PubChem to a plain text editor and then back to Wikidata because of some formatting issues when copy pasting directly from PubChem.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;C[C@@H]1C2[C@]([C@H]3[C@H]4[C@]1(C5=CC(=C(Cl)Cl)[C@@H]([C@]5([C@@H]([C@@]6([C@H]4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7)OC(O3)(O2)C8=CC=CC=C8)(C(=C)C)O
+
+CC1C2C(C3C4C1(C5=CC(=C(Cl)Cl)C(C5(C(C6(C4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7)OC(O2)(O3)C8=CC=CC=C8)(C(=C)C)O
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;add-the-biological-source-information-a-nameadd_bioa&#34;&gt;Add the biological source information &lt;a name=&#34;add_bio&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Now let&amp;rsquo;s add the &lt;code&gt;found in taxon&lt;/code&gt; property (&lt;a href=&#34;https://www.wikidata.org/wiki/Property:P703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;P703&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Just click on &lt;code&gt;Add a new statement&lt;/code&gt; and type in the first letters of the property you want to add:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-31-56.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Again, type in the first letters of the taxon, and if the organism is present, it will autocomplete. Here is how this looks like for &lt;em&gt;Trigonostemon cherrieri&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-33-14.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Click &lt;code&gt;publish&lt;/code&gt; to save your changes and make them public.&lt;/p&gt;
+&lt;p&gt;If your target taxon is not yet present on Wikidata and you are sure you have a valid taxon name that is spelled correctly, then you can go to &lt;a href=&#34;https://www.wikidata.org/wiki/Special:NewItem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wikidata.org/wiki/Special:NewItem&lt;/a&gt;, as described in the &lt;a href=&#34;#add_your_data_manually&#34;&gt;Add your data manually to Wikidata&lt;/a&gt; section. For items about taxa, the &lt;code&gt;instance of&lt;/code&gt; statement should have a value &lt;code&gt;taxon&lt;/code&gt; (i.e. &lt;a href=&#34;https://www.wikidata.org/wiki/Q16521&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Q16521&lt;/a&gt;). As for chemical compounds, the user interface will then suggest to you further statements to add. For taxa, these include taxon name, parent taxon and taxon rank.&lt;/p&gt;
+&lt;h3 id=&#34;add-the-reference-documenting-the-structure-organism-pair-a-nameadd_refa&#34;&gt;Add the reference documenting the structure-organism pair &lt;a name=&#34;add_ref&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Finally, since we report documented structure-organisms pairs, we need to add the reference for this newly created &lt;code&gt;compound found in taxon&lt;/code&gt; relationship.
+This happens on the item about the compound, just below the &lt;code&gt;found in taxon&lt;/code&gt; statement. Click on the &lt;code&gt;0 references&lt;/code&gt; link and then on &lt;code&gt;add reference&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-35-33.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Here, we use the &lt;code&gt;stated in&lt;/code&gt; property (&lt;a href=&#34;https://www.wikidata.org/wiki/Property:P248&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;P248&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-36-33.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Now, type in the first letters or word of the scientific publication documenting the natural product occurence, autocompletion happens again. Note that multiple publications might have the same title, and that there could be minor differences in punctuation or special characters between the information you and Wikidata have about the same reference. If you are not sure whether your target reference is already in Wikidata, you can use its DOI to check, as outlined in the &lt;a href=&#34;#check_ref&#34;&gt;Check whether your target reference is already on Wikidata&lt;/a&gt; section.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-38-54.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Click &lt;code&gt;publish&lt;/code&gt; to save your changes and make them public.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-39-48.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;check-whether-your-target-reference-is-already-on-wikidata-a-namecheck_refa&#34;&gt;Check whether your target reference is already on Wikidata &lt;a name=&#34;check_ref&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;If you are not sure whether your target reference is already in Wikidata, you can use its DOI to check. For our DOI &lt;code&gt;10.1021/ol2030907&lt;/code&gt;, the URL &lt;a href=&#34;https://scholia.toolforge.org/doi/10.1021/ol2030907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholia.toolforge.org/doi/&lt;em&gt;&lt;strong&gt;10.1021/ol2030907&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; will lead you to a &lt;a href=&#34;https://www.wikidata.org/wiki/Wikidata:Scholia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scholia&lt;/a&gt; page about this publication: &lt;a href=&#34;https://scholia.toolforge.org/work/Q83059010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholia.toolforge.org/work/Q83059010&lt;/a&gt;. Scholia visualizes information from Wikidata, so if it has an entry for your target reference, then so does Wikidata, and both of them will use the same identifier (in this case &lt;a href=&#34;https://www.wikidata.org/wiki/Q83059010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Q83059010&lt;/a&gt;). If you prefer to resolve your DOI to Wikidata directly, you can do so by using the uppercase-normalized DOI in the following URL pattern: &lt;a href=&#34;https://hub.toolforge.org/P356:10.1021/OL2030907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hub.toolforge.org/P356:&lt;strong&gt;10.1021/OL2030907&lt;/strong&gt;&lt;/a&gt;, which will lead you to the respective Wikidata page, in this case &lt;a href=&#34;https://www.wikidata.org/wiki/Q83059010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Q83059010&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you think that no Wikidata entry exists for your target reference, you can use the DOI in the URL pattern &lt;a href=&#34;https://sourcemd.toolforge.org/index_old.php?id=10.1021/ol2030907&amp;amp;doit=Check&amp;#43;source&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sourcemd.toolforge.org/index_old.php?id=&lt;strong&gt;10.1021/ol2030907&lt;/strong&gt;&amp;amp;doit=Check+source&lt;/a&gt;, which will trigger a check with both Crossref and Wikidata, and if no Wikidata entry can be found, the metadata from Crossref will be fetched and presented to you for creating the respective Wikidata item semi-automatically. Using such semi-automated workflows does require and account that is a minimum number of days old and has made a minimum number of edits on Wikidata.&lt;/p&gt;
+&lt;p&gt;If you are interested the annotation of article with topics in Scholia here is a tutorial &lt;a href=&#34;https://laurendupuis.github.io/Scholia_tutorial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurendupuis.github.io/Scholia_tutorial/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;voila-&#34;&gt;Voila !&lt;/h2&gt;
+&lt;p&gt;You have added your first documented structure-organism relationship to Wikidata and made a valuable contribution to the community.
+You can add further statements, e.g. &lt;code&gt;molecular formula&lt;/code&gt;, or &lt;code&gt;SPLASH code&lt;/code&gt; for linking to spectral data.&lt;/p&gt;
+&lt;p&gt;The Wikidata entry &lt;a href=&#34;https://www.wikidata.org/wiki/Q105674316&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wikidata.org/wiki/Q105674316&lt;/a&gt; has been started using these instructions.&lt;/p&gt;
+&lt;p&gt;You can run a SPARQL query and check that everything went smoothly by modifying the InChiKey line in the following &lt;a href=&#34;https://w.wiki/32zb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARQL query&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-SPARQL&#34;&gt;SELECT ?item ?itemLabel ?taxonLabel ?artLabel WHERE {
+  VALUES ?classes {
+    wd:Q11173 # chemical compound
+    wd:Q59199015 # group of stereoisomers
+    wd:Q79529 # chemical substance
+    wd:Q17339814 # group of chemical substances
+    wd:Q47154513 # structural class of chemical compounds
+  }
+  ?item wdt:P31 ?classes. # instance of
+  ?item wdt:P235 &#39;QOVGHDRCAGYGEB-FFZYJECLSA-N&#39; # InChiKey
+  {
+    ?item p:P1582 ?stmt. # natural product of taxon
+    ?stmt ps:P1582 ?taxon. # natural product of taxon
+    OPTIONAL {
+      ?stmt prov:wasDerivedFrom ?ref. 
+      ?ref pr:P248 ?art. # stated in
+    }
+  }
+  UNION
+  {
+    ?item p:P703 ?stmt. # found in taxon
+    ?stmt ps:P703 ?taxon. # found in taxon
+    OPTIONAL {
+      ?stmt prov:wasDerivedFrom ?ref.
+      ?ref pr:P248 ?art. # stated in
+    }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language &amp;quot;[AUTO_LANGUAGE],en&amp;quot;. }
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lotus Tmap</title>
+      <link>https://lotus.nprod.net/post/lotus-tmap/</link>
+      <pubDate>Thu, 27 May 2021 11:02:46 +0200</pubDate>
+      <guid>https://lotus.nprod.net/post/lotus-tmap/</guid>
+      <description>&lt;p&gt;Have a look at the LOTUS tmap display directly here &lt;a href=&#34;https://metabo-store.nprod.net/tmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://metabo-store.nprod.net/tmap/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tmap allows the organization and visualization of huge sets of data of diverse type. More details on the library here &lt;a href=&#34;https://tmap.gdb.tools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tmap.gdb.tools/&lt;/a&gt;. These tools have been developped at the Reymond research group &lt;a href=&#34;https://gdb.unibe.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gdb.unibe.ch/&lt;/a&gt;&lt;/p&gt;
+&lt;embed src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lotus_initiative_1_biologically_interpreted_chemical_tree.svg/563px-Lotus_initiative_1_biologically_interpreted_chemical_tree.svg.png&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lotus Is Up at naturalproducts.net, have a look !</title>
+      <link>https://lotus.nprod.net/post/lotus-is-up-naturalproductsnet/</link>
+      <pubDate>Tue, 16 Feb 2021 16:50:33 +0100</pubDate>
+      <guid>https://lotus.nprod.net/post/lotus-is-up-naturalproductsnet/</guid>
+      <description>&lt;p&gt;Thanks to &lt;a href=&#34;https://lotus.nprod.net/authors/maria/&#34;&gt;Maria Sorokina&lt;/a&gt;, we now have an up and running version of LOTUS at &lt;a href=&#34;https://lotus.naturalproducts.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lotus.naturalproducts.net/&lt;/a&gt; 🧘‍♀️&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://lotus.naturalproducts.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lotus.naturalproducts.net/&lt;/a&gt; version allows a more user friendly experience (such as structural search, taxonomy oriented query, flat table and structures exports).&lt;/p&gt;
+&lt;embed src=&#34;https://lotus.naturalproducts.net/&#34; style=&#34;width:1000px; height: 800px;&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>WD Tree Map Antibacterials</title>
+      <link>https://lotus.nprod.net/post/wd-tree-map-antibacterials/</link>
+      <pubDate>Tue, 16 Feb 2021 16:38:58 +0100</pubDate>
+      <guid>https://lotus.nprod.net/post/wd-tree-map-antibacterials/</guid>
+      <description>&lt;p&gt;SPARQL queries are not necessarily rendered as tables &amp;hellip; have a look at this 🌳 🗺️&lt;/p&gt;
+&lt;p&gt;The folowing Wikidata SPAQRL query will retrieve all compounds found having the MESH property &amp;ldquo;antibacterial&amp;rdquo; associated. The results are counted and grouped at the taxa and parent taxa level of the containing organism. The results are outputted as a treemamp.&lt;/p&gt;
+&lt;iframe style=&#34;width: 80vw; height: 50vh; border: none;&#34; src=&#34;https://query.wikidata.org/embed.html#%23defaultView%3ATreeMap%0ASELECT%20DISTINCT%20%3Fparent_taxon%20%3Fparent_taxon_name%20%3Ftaxon%20%3Ftaxon_name%20%20(COUNT(%3Fcompound)%20AS%20%3Fcount)%20WHERE%20%7B%0A%20%20%3Fcompound%20wdt%3AP2868%20%3Fmesh.%0A%20%20%3Fmesh%20wdt%3AP486%20%22D000900%22.%0A%20%20%3Fcompound%20wdt%3AP235%20%3Finchikey.%0A%20%20%7B%0A%20%20%20%20%3Fcompound%20p%3AP703%20%3Fstatement.%0A%20%20%20%20%3Fstatement%20ps%3AP703%20%3Ftaxon.%0A%20%20%20%20%3Ftaxon%20wdt%3AP171%20%3Fparent_taxon.%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP171%20%3Fparent_taxon.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Fparent_taxon%20wdt%3AP225%20%3Fparent_taxon_name.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP225%20%3Ftaxon_name.%20%7D%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%3Fstatement%20prov%3AwasDerivedFrom%20%3Fref.%0A%20%20%20%20%20%20%3Fref%20pr%3AP248%20%3Freference.%0A%20%20%20%20%20%20%3Freference%20wdt%3AP356%20%3Freference_doi%3B%0A%20%20%20%20%20%20%20%20wdt%3AP1476%20%3Freference_title.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%20%3Fparent_taxon%20%3Fparent_taxon_name%20%3Ftaxon%20%3Ftaxon_name%0AORDER%20BY%20DESC%20(%3Fcount)%0ALIMIT%2070&#34; referrerpolicy=&#34;origin&#34; sandbox=&#34;allow-scripts allow-same-origin allow-popups&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Otol Id Accepted !</title>
+      <link>https://lotus.nprod.net/post/otol-id-accepted/</link>
+      <pubDate>Tue, 16 Feb 2021 16:14:19 +0100</pubDate>
+      <guid>https://lotus.nprod.net/post/otol-id-accepted/</guid>
+      <description>&lt;p&gt;After a short time and a proposal by &lt;a href=&#34;https://lotus.nprod.net/authors/adriano/&#34;&gt;Adriano Rutz&lt;/a&gt;, a new property, Open Tree of Life ID (P9157), has been acepted on Wikidata. 🔥&lt;/p&gt;
+&lt;p&gt;It represents an identifier for an entity in Open Tree of Life, a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data.&lt;/p&gt;
+&lt;p&gt;See here for more details &lt;a href=&#34;https://www.wikidata.org/wiki/Property:P9157&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wikidata.org/wiki/Property:P9157&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Virola compounds - a SPARQL query example</title>
+      <link>https://lotus.nprod.net/post/wd-query-example/</link>
+      <pubDate>Tue, 16 Feb 2021 15:49:43 +0100</pubDate>
+      <guid>https://lotus.nprod.net/post/wd-query-example/</guid>
+      <description>&lt;p&gt;An embedded wd query example&lt;/p&gt;
+&lt;p&gt;The folowing Wikidata SPAQRL query will retrieve all compounds found in taxa whose parent taxon name is &lt;em&gt;&amp;ldquo;Virola&amp;rdquo;.&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;container&#34;&gt;
+        &lt;div id=&#34;one-tab-content&#34;&gt;
+            &lt;h5 class=&#34;title is-5&#34; style=&#34;text-align:center;&#34;&gt; &lt;i&gt;Virola&lt;/i&gt; genus compounds &lt;/h5&gt;
+        &lt;div class=&#34;columns is-centered&#34;
+        &lt;p style=&#34;text-align: center&#34;&gt;
+            &lt;iframe width=120% height=&#34;600&#34; src=&#34;https://query.wikidata.org/embed.html#SELECT%20DISTINCT%20%3Fcompound%20%3FcompoundLabel%20%3Finchikey%20%3Finchi%20%3Fsmiles_isomeric%20%3Fsmiles_canonical%20%3Fcas%20%3Fchebi%20%3Fchembl%20%3Fpubchem%20%3Ftaxon%20%3Ftaxon_name%20%3Ftaxon_id_gbif%20%3Ftaxon_id_ncbi%20%3Freference%20%3Freference_doi%20%3Freference_title%20WHERE%20%7B%0A%20%20%3Ftaxon%20wdt%3AP171%20%3Fparent_taxon.%0A%20%20%3Fparent_taxon%20wdt%3AP225%20%27Virola%27.%0A%20%20%3Fcompound%20wdt%3AP235%20%3Finchikey.%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP231%20%3Fcas.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP233%20%3Fsmiles_canonical.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP234%20%3Finchi.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP592%20%3Fchembl.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP662%20%3Fpubchem.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP683%20%3Fchebi.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP2017%20%3Fsmiles_isomeric.%20%7D%0A%20%20%7B%0A%20%20%20%20%3Fcompound%20p%3AP703%20%3Fstatement.%0A%20%20%20%20%3Fstatement%20ps%3AP703%20%3Ftaxon.%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP225%20%3Ftaxon_name.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP846%20%3Ftaxon_id_gbif.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP685%20%3Ftaxon_id_ncbi.%20%7D%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%3Fstatement%20prov%3AwasDerivedFrom%20%3Fref.%0A%20%20%20%20%20%20%3Fref%20pr%3AP248%20%3Freference.%0A%20%20%20%20%20%20%3Freference%20wdt%3AP356%20%3Freference_doi%3B%0A%20%20%20%20%20%20%20%20wdt%3AP1476%20%3Freference_title.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D&#34;&gt;&lt;/iframe&gt;
+        &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;div class=&#34;container&#34;&gt;
+&lt;div id=&#34;one-tab-content&#34;&gt;
+    &lt;h5 class=&#34;title is-5&#34; style=&#34;text-align:center;&#34;&gt; Composés reportés dans le genre Satureja &lt;/h5&gt;
+    &lt;div class=&#34;columns is-centered&#34; &lt;p style=&#34;text-align: center&#34;&gt;
+    &lt;iframe width=100% height=&#34;600&#34; style=&#34;border:none;&#34;
+        src=&#34;https://query.wikidata.org/embed.html#SELECT%20DISTINCT%20%3Fcompound%20%3FcompoundLabel%20%3Finchikey%20%3Finchi%20%3Fsmiles_isomeric%20%3Fsmiles_canonical%20%3Fcas%20%3Fchebi%20%3Fchembl%20%3Fpubchem%20%3Ftaxon%20%3Ftaxon_name%20%3Ftaxon_id_gbif%20%3Ftaxon_id_ncbi%20%3Freference%20%3Freference_doi%20%3Freference_title%20WHERE%20%7B%0A%20%20%3Ftaxon%20wdt%3AP171%20%3Fparent_taxon.%0A%20%20%3Fparent_taxon%20wdt%3AP225%20%27Virola%27.%0A%20%20%3Fcompound%20wdt%3AP235%20%3Finchikey.%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP231%20%3Fcas.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP233%20%3Fsmiles_canonical.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP234%20%3Finchi.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP592%20%3Fchembl.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP662%20%3Fpubchem.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP683%20%3Fchebi.%20%7D%0A%20%20OPTIONAL%20%7B%20%3Fcompound%20wdt%3AP2017%20%3Fsmiles_isomeric.%20%7D%0A%20%20%7B%0A%20%20%20%20%3Fcompound%20p%3AP703%20%3Fstatement.%0A%20%20%20%20%3Fstatement%20ps%3AP703%20%3Ftaxon.%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP225%20%3Ftaxon_name.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP846%20%3Ftaxon_id_gbif.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP685%20%3Ftaxon_id_ncbi.%20%7D%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%3Fstatement%20prov%3AwasDerivedFrom%20%3Fref.%0A%20%20%20%20%20%20%3Fref%20pr%3AP248%20%3Freference.%0A%20%20%20%20%20%20%3Freference%20wdt%3AP356%20%3Freference_doi%3B%0A%20%20%20%20%20%20%20%20wdt%3AP1476%20%3Freference_title.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D&#34;&gt;&lt;/iframe&gt;
+    &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lotus.nprod.net/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lotus.nprod.net/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lotus.nprod.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lotus.nprod.net/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lotus.nprod.net/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lotus.nprod.net/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | The LOTUS Initiative</title>
+    <link>https://lotus.nprod.net/authors/</link>
+      <atom:link href="https://lotus.nprod.net/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lotus.nprod.net/media/icon_hub52889638c655c1dc95ac25ddcd1a92f_84651_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://lotus.nprod.net/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

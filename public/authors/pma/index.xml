@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre-Marie Allard | The LOTUS Initiative</title>
+    <link>https://lotus.nprod.net/authors/pma/</link>
+      <atom:link href="https://lotus.nprod.net/authors/pma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre-Marie Allard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lotus.nprod.net/authors/pma/avatar_huc4492473e78eac040735736be9437549_231872_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pierre-Marie Allard</title>
+      <link>https://lotus.nprod.net/authors/pma/</link>
+    </image>
+    
+    <item>
+      <title>The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata</title>
+      <link>https://lotus.nprod.net/publication/preprint/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lotus.nprod.net/publication/preprint/</guid>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1101/2021.02.28.433265&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1101/2021.02.28.433265&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#34;text/javascript&#34; src=&#34;//cdn.plu.mx/widget-summary.js&#34;&gt;&lt;/script&gt;
+        &lt;a href=&#34;https://plu.mx/plum/a/?doi=10.1101/2021.02.28.433265&#34; 
+          data-orientation=&#34;horizontal&#34; 
+          class=&#34;plumx-summary&#34; 
+          data-site=&#34;plum&#34; 
+          data-hide-when-empty=&#34;true&#34;&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lotus Is Up at naturalproducts.net, have a look !</title>
+      <link>https://lotus.nprod.net/post/lotus-is-up-naturalproductsnet/</link>
+      <pubDate>Tue, 16 Feb 2021 16:50:33 +0100</pubDate>
+      <guid>https://lotus.nprod.net/post/lotus-is-up-naturalproductsnet/</guid>
+      <description>&lt;p&gt;Thanks to &lt;a href=&#34;https://lotus.nprod.net/authors/maria/&#34;&gt;Maria Sorokina&lt;/a&gt;, we now have an up and running version of LOTUS at &lt;a href=&#34;https://lotus.naturalproducts.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lotus.naturalproducts.net/&lt;/a&gt; 🧘‍♀️&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://lotus.naturalproducts.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lotus.naturalproducts.net/&lt;/a&gt; version allows a more user friendly experience (such as structural search, taxonomy oriented query, flat table and structures exports).&lt;/p&gt;
+&lt;embed src=&#34;https://lotus.naturalproducts.net/&#34; style=&#34;width:1000px; height: 800px;&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>WD Tree Map Antibacterials</title>
+      <link>https://lotus.nprod.net/post/wd-tree-map-antibacterials/</link>
+      <pubDate>Tue, 16 Feb 2021 16:38:58 +0100</pubDate>
+      <guid>https://lotus.nprod.net/post/wd-tree-map-antibacterials/</guid>
+      <description>&lt;p&gt;SPARQL queries are not necessarily rendered as tables &amp;hellip; have a look at this 🌳 🗺️&lt;/p&gt;
+&lt;p&gt;The folowing Wikidata SPAQRL query will retrieve all compounds found having the MESH property &amp;ldquo;antibacterial&amp;rdquo; associated. The results are counted and grouped at the taxa and parent taxa level of the containing organism. The results are outputted as a treemamp.&lt;/p&gt;
+&lt;iframe style=&#34;width: 80vw; height: 50vh; border: none;&#34; src=&#34;https://query.wikidata.org/embed.html#%23defaultView%3ATreeMap%0ASELECT%20DISTINCT%20%3Fparent_taxon%20%3Fparent_taxon_name%20%3Ftaxon%20%3Ftaxon_name%20%20(COUNT(%3Fcompound)%20AS%20%3Fcount)%20WHERE%20%7B%0A%20%20%3Fcompound%20wdt%3AP2868%20%3Fmesh.%0A%20%20%3Fmesh%20wdt%3AP486%20%22D000900%22.%0A%20%20%3Fcompound%20wdt%3AP235%20%3Finchikey.%0A%20%20%7B%0A%20%20%20%20%3Fcompound%20p%3AP703%20%3Fstatement.%0A%20%20%20%20%3Fstatement%20ps%3AP703%20%3Ftaxon.%0A%20%20%20%20%3Ftaxon%20wdt%3AP171%20%3Fparent_taxon.%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP171%20%3Fparent_taxon.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Fparent_taxon%20wdt%3AP225%20%3Fparent_taxon_name.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Ftaxon%20wdt%3AP225%20%3Ftaxon_name.%20%7D%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%3Fstatement%20prov%3AwasDerivedFrom%20%3Fref.%0A%20%20%20%20%20%20%3Fref%20pr%3AP248%20%3Freference.%0A%20%20%20%20%20%20%3Freference%20wdt%3AP356%20%3Freference_doi%3B%0A%20%20%20%20%20%20%20%20wdt%3AP1476%20%3Freference_title.%0A%20%20%20%20%7D%0A%20%20%7D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%0AGROUP%20BY%20%20%3Fparent_taxon%20%3Fparent_taxon_name%20%3Ftaxon%20%3Ftaxon_name%0AORDER%20BY%20DESC%20(%3Fcount)%0ALIMIT%2070&#34; referrerpolicy=&#34;origin&#34; sandbox=&#34;allow-scripts allow-same-origin allow-popups&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Otol Id Accepted !</title>
+      <link>https://lotus.nprod.net/post/otol-id-accepted/</link>
+      <pubDate>Tue, 16 Feb 2021 16:14:19 +0100</pubDate>
+      <guid>https://lotus.nprod.net/post/otol-id-accepted/</guid>
+      <description>&lt;p&gt;After a short time and a proposal by &lt;a href=&#34;https://lotus.nprod.net/authors/adriano/&#34;&gt;Adriano Rutz&lt;/a&gt;, a new property, Open Tree of Life ID (P9157), has been acepted on Wikidata. 🔥&lt;/p&gt;
+&lt;p&gt;It represents an identifier for an entity in Open Tree of Life, a comprehensive, dynamic and digitally-available tree of life by synthesizing published phylogenetic trees along with taxonomic data.&lt;/p&gt;
+&lt;p&gt;See here for more details &lt;a href=&#34;https://www.wikidata.org/wiki/Property:P9157&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wikidata.org/wiki/Property:P9157&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

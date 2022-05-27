@@ -1,0 +1,1719 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Pierre-Marie Allard" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="A tutorial for manual entry creation on Wikidata. You can follow similar steps for entry editing." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://lotus.nprod.net/post/tuto-wd-entry-creation/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#3f51b5" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hub52889638c655c1dc95ac25ddcd1a92f_84651_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hub52889638c655c1dc95ac25ddcd1a92f_84651_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://lotus.nprod.net/post/tuto-wd-entry-creation/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@TheLOTUSInitia1" />
+    <meta property="twitter:creator" content="@TheLOTUSInitia1" />
+  
+  <meta property="og:site_name" content="The LOTUS Initiative" />
+  <meta property="og:url" content="https://lotus.nprod.net/post/tuto-wd-entry-creation/" />
+  <meta property="og:title" content="Tuto Wd Entry Creation | The LOTUS Initiative" />
+  <meta property="og:description" content="A tutorial for manual entry creation on Wikidata. You can follow similar steps for entry editing." /><meta property="og:image" content="https://lotus.nprod.net/media/icon_hub52889638c655c1dc95ac25ddcd1a92f_84651_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://lotus.nprod.net/media/icon_hub52889638c655c1dc95ac25ddcd1a92f_84651_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-05-28T02:26:12&#43;02:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-05-28T02:26:12&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lotus.nprod.net/post/tuto-wd-entry-creation/"
+  },
+  "headline": "Tuto Wd Entry Creation",
+  
+  "datePublished": "2021-05-28T02:26:12+02:00",
+  "dateModified": "2021-05-28T02:26:12+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Pierre-Marie Allard"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "The LOTUS Initiative",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lotus.nprod.net/media/icon_hub52889638c655c1dc95ac25ddcd1a92f_84651_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "\u003cp\u003eA tutorial for manual entry creation on Wikidata. You can follow similar steps for entry editing.\u003c/p\u003e"
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Tuto Wd Entry Creation | The LOTUS Initiative</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="ce8334c0a4abbff1f2ca0febd1d6a4e7" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/event"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/slides"><span>Slides</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/sheets"><span>Sheets</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Tuto Wd Entry Creation</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 28, 2021
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    7 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>A tutorial for manual entry creation on Wikidata. You can follow similar steps for entry editing.</p>
+<h1 id="manual-addition-of-a-documented-structure-organism-pair-to-wikidata">Manual addition of a documented structure-organism pair to Wikidata</h1>
+<h2 id="select-a-documented-structure-organism-pair">Select a documented structure-organism pair</h2>
+<p>Throughout this demonstration, we are going to use the following example:</p>
+<blockquote>
+<p><a href="https://pubchem.ncbi.nlm.nih.gov/compound/101556657" target="_blank" rel="noopener">trigocherrin A</a> is found in <a href="http://gni.globalnames.org/name_strings?search_term=trigonostemon&#43;cherrieri&amp;commit=Search" target="_blank" rel="noopener"><em>Trigonostemon cherrieri</em></a>, as stated in <a href="https://doi.org/10.1021/OL2030907" target="_blank" rel="noopener">Trigocherrin A, the first natural chlorinated daphnane diterpene orthoester from Trigonostemon cherrieri</a>.</p>
+</blockquote>
+<h2 id="fetch-the-information-for-the-documented-structure-organism-pair">Fetch the information for the documented structure-organism pair</h2>
+<h3 id="structure">Structure</h3>
+<p>Search PubChem for your compound, here <a href="https://pubchem.ncbi.nlm.nih.gov/#query=%22trigocherrin%20A%22" target="_blank" rel="noopener">trigocherrin A</a>. This leads to <a href="https://pubchem.ncbi.nlm.nih.gov/compound/101556657" target="_blank" rel="noopener">https://pubchem.ncbi.nlm.nih.gov/compound/101556657</a>.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-15-54.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>From there, you can fetch the compound&rsquo;s name, InChIKey and InChI as well as its Canonical and Isomeric SMILES.
+Here we keep, respectively:</p>
+<pre><code>* trigocherrin A
+* QOVGHDRCAGYGEB-FFZYJECLSA-N
+* InChI=1S/C38H36Cl2O12/c1-18(2)35(44)27-19(3)37-25-16-24(31(39)40)28(48-32(43)22-12-8-6-9-13-22)36(25,45)33(47-21(5)42)34(17-46-20(4)41)29(49-34)26(37)30(35)51-38(50-27,52-37)23-14-10-7-11-15-23/h6-16,19,26-30,33,44-45H,1,17H2,2-5H3/t19-,26+,27?,28+,29+,30-,33-,34+,35+,36-,37+,38?/m1/s1
+* CC1C2C(C3C4C1(C5=CC(=C(Cl)Cl)C(C5(C(C6(C4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7)OC(O2)(O3)C8=CC=CC=C8)(C(=C)C)O
+* C[C@@H]1C2[C@]([C@H]3[C@H]4[C@]1(C5=CC(=C(Cl)Cl)[C@@H]([C@]5([C@@H]([C@@]6([C@H]4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7)OC(O3)(O2)C8=CC=CC=C8)(C(=C)C)O
+</code></pre>
+<h3 id="organism">Organism</h3>
+<p>You can check if your organism name is correctly spelled using the Global Names resolver service: <a href="http://gni.globalnames.org/name_strings?search_term=trigonostemon&#43;cherrieri&amp;commit=Search" target="_blank" rel="noopener">http://gni.globalnames.org/name_strings?search_term=trigonostemon+cherrieri&amp;commit=Search</a>.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-27-18-40-20.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Alternatively, you can use <a href="https://github.com/gnames/gnfinder" target="_blank" rel="noopener">gnfinder</a> in your command line interface to check for the spelling of your organism string.</p>
+<pre><code>echo &quot;Trigonostemion cherrieri&quot; | gnfinder find -c -l eng
+
+{
+  &quot;metadata&quot;: {
+    &quot;date&quot;: &quot;2021-02-27T18:44:41.640982+01:00&quot;,
+    &quot;gnfinderVersion&quot;: &quot;v0.11.1&quot;,
+    &quot;withBayes&quot;: true,
+    &quot;tokensAround&quot;: 0,
+    &quot;language&quot;: &quot;eng&quot;,
+    &quot;detectLanguage&quot;: false,
+    &quot;totalWords&quot;: 2,
+    &quot;totalCandidates&quot;: 1,
+    &quot;totalNames&quot;: 1
+  },
+  &quot;names&quot;: [
+    {
+      &quot;cardinality&quot;: 2,
+      &quot;verbatim&quot;: &quot;Trigonostemion cherrieri&quot;,
+      &quot;name&quot;: &quot;Trigonostemion cherrieri&quot;,
+      &quot;odds&quot;: 77581.46698350731,
+      &quot;start&quot;: 0,
+      &quot;end&quot;: 24,
+      &quot;annotationNomenType&quot;: &quot;NO_ANNOT&quot;,
+      &quot;annotation&quot;: &quot;&quot;,
+      &quot;verification&quot;: {
+        &quot;bestResult&quot;: {
+          &quot;dataSourceId&quot;: 1,
+          &quot;dataSourceTitle&quot;: &quot;Catalogue of Life&quot;,
+          &quot;taxonId&quot;: &quot;1575885&quot;,
+          &quot;matchedName&quot;: &quot;Trigonostemon cherrieri Veillon&quot;,
+          &quot;matchedCardinality&quot;: 2,
+          &quot;matchedCanonicalSimple&quot;: &quot;Trigonostemon cherrieri&quot;,
+          &quot;matchedCanonicalFull&quot;: &quot;Trigonostemon cherrieri&quot;,
+          &quot;classificationPath&quot;: &quot;Plantae|Tracheophyta|Magnoliopsida|Malpighiales|Euphorbiaceae|Trigonostemon|Trigonostemon cherrieri&quot;,
+          &quot;classificationRank&quot;: &quot;kingdom|phylum|class|order|family|genus|species&quot;,
+          &quot;classificationIds&quot;: &quot;3939764|3942634|3942724|3942777|3942795|4210752|1575885&quot;,
+          &quot;editDistance&quot;: 1,
+          &quot;stemEditDistance&quot;: 1,
+          &quot;matchType&quot;: &quot;FuzzyCanonicalMatch&quot;
+        },
+        &quot;dataSourcesNum&quot;: 13,
+        &quot;dataSourceQuality&quot;: &quot;HasCuratedSources&quot;,
+        &quot;retries&quot;: 1
+      }
+    }
+  ]
+}
+</code></pre>
+<p>For misspellings like <em>Trigonstemion cherrieri</em>, gnfinder can help resolve them, in this case to <em>Trigonostemon cherrieri</em>.</p>
+<h3 id="reference">Reference</h3>
+<p>Make sure that you have the correct <a href="https://www.doi.org/doi_handbook/Glossary.html#doi" target="_blank" rel="noopener">Digital Object Identifier (DOI)</a> for it.
+For &ldquo;<a href="https://doi.org/10.1021/OL2030907" target="_blank" rel="noopener">Trigocherrin A, the first natural chlorinated daphnane diterpene orthoester from Trigonostemon cherrieri</a>&rdquo;, this is  <strong>10.1021/ol2030907</strong>. Note that DOIs are uppercase-normalized in Wikidata.</p>
+<h2 id="check-for-the-presence-of-your-compound-in-wikidata-a-namecheck_compounda">Check for the presence of your compound in Wikidata <a name="check_compound"></a></h2>
+<p>Using the compound&rsquo;s InChIKey (i.e. <code>QOVGHDRCAGYGEB-FFZYJECLSA-N</code> for trigocherrin A), run a SPARQL query to check if your compound is present in Wikidata or not:</p>
+<pre><code class="language-SPARQL">SELECT ?item ?itemLabel WHERE {
+  VALUES ?classes {
+    wd:Q11173 # chemical compound
+    wd:Q59199015 # group of stereoisomers
+    wd:Q79529 # chemical substance
+    wd:Q17339814 # group of chemical substances
+    wd:Q47154513 # structural class of chemical compounds
+  }
+  ?item wdt:P31 ?classes. # instance of
+  ?item wdt:P235 'QOVGHDRCAGYGEB-FFZYJECLSA-N'
+  SERVICE wikibase:label { bd:serviceParam wikibase:language &quot;[AUTO_LANGUAGE],en&quot;. }
+}
+</code></pre>
+<p><a href="https://w.wiki/32zU" target="_blank" rel="noopener">Try this query</a>. You can adapt it by replacing the InChIKey with the one for your compound.</p>
+<p>Alternatively you can use the following Scholia link (replace by your compounds InChIKey) <a href="https://scholia.toolforge.org/inchikey/QOVGHDRCAGYGEB-FFZYJECLSA-N" target="_blank" rel="noopener">https://scholia.toolforge.org/inchikey/QOVGHDRCAGYGEB-FFZYJECLSA-N</a></p>
+<p>If your compound is already present on Wikidata, you can directly skip to the <a href="#add_bio">Add the biological source information</a> section below.</p>
+<h2 id="add-your-data-manually-to-wikidata-a-nameadd_your_data_manuallya">Add your data manually to Wikidata <a name="add_your_data_manually"></a></h2>
+<p>First, if you do not have a Wikidata account already, it is advisable that you create one via <a href="https://www.wikidata.org/wiki/Special:CreateAccount" target="_blank" rel="noopener">https://www.wikidata.org/wiki/Special:CreateAccount</a>. While an account is not strictly required for manual edits, having one will be useful if you want to contribute more than once, and it helps in getting your contributions recognized. Note that Wikidata accounts are integrated with accounts across the Wikimedia ecosystem, so if you already have an account on, say, any Wikipedia or on Wikispecies, then you can use the same credentials on Wikidata.</p>
+<p>If you are unfamiliar with how Wikidata works, you can start by reading the Wikidata introduction page <a href="https://www.wikidata.org/wiki/Wikidata:Introduction" target="_blank" rel="noopener">https://www.wikidata.org/wiki/Wikidata:Introduction</a> and have a look at the Wikidata Tours page <a href="https://www.wikidata.org/wiki/Wikidata:Tours" target="_blank" rel="noopener">https://www.wikidata.org/wiki/Wikidata:Tours</a>.</p>
+<p>Now that you are all set up, you can go to Wikidata&rsquo;s page for creating new items, <a href="https://www.wikidata.org/wiki/Special:NewItem" target="_blank" rel="noopener">https://www.wikidata.org/wiki/Special:NewItem</a>:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-18-03.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>An empty page with a new Wikidata identifier is created</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-18-50.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h3 id="add-the-chemical-compound-information-a-nameadd_chemicala">Add the chemical compound information <a name="add_chemical"></a></h3>
+<p>Create a new statement for <code>is an instance of</code></p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-20-08.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>and select chemical compound (i.e. <a href="https://www.wikidata.org/wiki/Q11173" target="_blank" rel="noopener">Q11173</a>):</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-20-58.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Click <code>publish</code> to save your changes and make them public.</p>
+<p>Since you created a new item about an instance of a chemical compound, the user interface will automatically propose to you a set of additional statements commonly found on items about chemical compounds.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-22-44.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>You can then go on and fill these in.</p>
+<p>Here, we start with the InChIKey.
+Note the little flag which will automatically tell you if you have some problems with the recently created statements.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-24-34.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Here, Wikidata tells us that if we add an InChiKey, we will need to also add an InChI. Logical, but good to have a reminder !</p>
+<p>Let&rsquo;s go ahead and add the InChI string.</p>
+<p>Likewise, the addition of an isomeric SMILES string will require us to add a Canonical SMILES.</p>
+<p>Note that you might have to copy and paste the SMILES string from PubChem to a plain text editor and then back to Wikidata because of some formatting issues when copy pasting directly from PubChem.</p>
+<pre><code>C[C@@H]1C2[C@]([C@H]3[C@H]4[C@]1(C5=CC(=C(Cl)Cl)[C@@H]([C@]5([C@@H]([C@@]6([C@H]4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7)OC(O3)(O2)C8=CC=CC=C8)(C(=C)C)O
+
+CC1C2C(C3C4C1(C5=CC(=C(Cl)Cl)C(C5(C(C6(C4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7)OC(O2)(O3)C8=CC=CC=C8)(C(=C)C)O
+</code></pre>
+<h3 id="add-the-biological-source-information-a-nameadd_bioa">Add the biological source information <a name="add_bio"></a></h3>
+<p>Now let&rsquo;s add the <code>found in taxon</code> property (<a href="https://www.wikidata.org/wiki/Property:P703" target="_blank" rel="noopener">P703</a>).</p>
+<p>Just click on <code>Add a new statement</code> and type in the first letters of the property you want to add:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-31-56.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Again, type in the first letters of the taxon, and if the organism is present, it will autocomplete. Here is how this looks like for <em>Trigonostemon cherrieri</em>:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-33-14.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Click <code>publish</code> to save your changes and make them public.</p>
+<p>If your target taxon is not yet present on Wikidata and you are sure you have a valid taxon name that is spelled correctly, then you can go to <a href="https://www.wikidata.org/wiki/Special:NewItem" target="_blank" rel="noopener">https://www.wikidata.org/wiki/Special:NewItem</a>, as described in the <a href="#add_your_data_manually">Add your data manually to Wikidata</a> section. For items about taxa, the <code>instance of</code> statement should have a value <code>taxon</code> (i.e. <a href="https://www.wikidata.org/wiki/Q16521" target="_blank" rel="noopener">Q16521</a>). As for chemical compounds, the user interface will then suggest to you further statements to add. For taxa, these include taxon name, parent taxon and taxon rank.</p>
+<h3 id="add-the-reference-documenting-the-structure-organism-pair-a-nameadd_refa">Add the reference documenting the structure-organism pair <a name="add_ref"></a></h3>
+<p>Finally, since we report documented structure-organisms pairs, we need to add the reference for this newly created <code>compound found in taxon</code> relationship.
+This happens on the item about the compound, just below the <code>found in taxon</code> statement. Click on the <code>0 references</code> link and then on <code>add reference</code>:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-35-33.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Here, we use the <code>stated in</code> property (<a href="https://www.wikidata.org/wiki/Property:P248" target="_blank" rel="noopener">P248</a>):</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-36-33.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Now, type in the first letters or word of the scientific publication documenting the natural product occurence, autocompletion happens again. Note that multiple publications might have the same title, and that there could be minor differences in punctuation or special characters between the information you and Wikidata have about the same reference. If you are not sure whether your target reference is already in Wikidata, you can use its DOI to check, as outlined in the <a href="#check_ref">Check whether your target reference is already on Wikidata</a> section.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-38-54.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Click <code>publish</code> to save your changes and make them public.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/assets/images/2021-02-25-14-39-48.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h3 id="check-whether-your-target-reference-is-already-on-wikidata-a-namecheck_refa">Check whether your target reference is already on Wikidata <a name="check_ref"></a></h3>
+<p>If you are not sure whether your target reference is already in Wikidata, you can use its DOI to check. For our DOI <code>10.1021/ol2030907</code>, the URL <a href="https://scholia.toolforge.org/doi/10.1021/ol2030907" target="_blank" rel="noopener">https://scholia.toolforge.org/doi/<em><strong>10.1021/ol2030907</strong></em></a> will lead you to a <a href="https://www.wikidata.org/wiki/Wikidata:Scholia" target="_blank" rel="noopener">Scholia</a> page about this publication: <a href="https://scholia.toolforge.org/work/Q83059010" target="_blank" rel="noopener">https://scholia.toolforge.org/work/Q83059010</a>. Scholia visualizes information from Wikidata, so if it has an entry for your target reference, then so does Wikidata, and both of them will use the same identifier (in this case <a href="https://www.wikidata.org/wiki/Q83059010" target="_blank" rel="noopener">Q83059010</a>). If you prefer to resolve your DOI to Wikidata directly, you can do so by using the uppercase-normalized DOI in the following URL pattern: <a href="https://hub.toolforge.org/P356:10.1021/OL2030907" target="_blank" rel="noopener">https://hub.toolforge.org/P356:<strong>10.1021/OL2030907</strong></a>, which will lead you to the respective Wikidata page, in this case <a href="https://www.wikidata.org/wiki/Q83059010" target="_blank" rel="noopener">Q83059010</a>.</p>
+<p>If you think that no Wikidata entry exists for your target reference, you can use the DOI in the URL pattern <a href="https://sourcemd.toolforge.org/index_old.php?id=10.1021/ol2030907&amp;doit=Check&#43;source" target="_blank" rel="noopener">https://sourcemd.toolforge.org/index_old.php?id=<strong>10.1021/ol2030907</strong>&amp;doit=Check+source</a>, which will trigger a check with both Crossref and Wikidata, and if no Wikidata entry can be found, the metadata from Crossref will be fetched and presented to you for creating the respective Wikidata item semi-automatically. Using such semi-automated workflows does require and account that is a minimum number of days old and has made a minimum number of edits on Wikidata.</p>
+<p>If you are interested the annotation of article with topics in Scholia here is a tutorial <a href="https://laurendupuis.github.io/Scholia_tutorial/" target="_blank" rel="noopener">https://laurendupuis.github.io/Scholia_tutorial/</a></p>
+<h2 id="voila-">Voila !</h2>
+<p>You have added your first documented structure-organism relationship to Wikidata and made a valuable contribution to the community.
+You can add further statements, e.g. <code>molecular formula</code>, or <code>SPLASH code</code> for linking to spectral data.</p>
+<p>The Wikidata entry <a href="https://www.wikidata.org/wiki/Q105674316" target="_blank" rel="noopener">https://www.wikidata.org/wiki/Q105674316</a> has been started using these instructions.</p>
+<p>You can run a SPARQL query and check that everything went smoothly by modifying the InChiKey line in the following <a href="https://w.wiki/32zb" target="_blank" rel="noopener">SPARQL query</a>:</p>
+<pre><code class="language-SPARQL">SELECT ?item ?itemLabel ?taxonLabel ?artLabel WHERE {
+  VALUES ?classes {
+    wd:Q11173 # chemical compound
+    wd:Q59199015 # group of stereoisomers
+    wd:Q79529 # chemical substance
+    wd:Q17339814 # group of chemical substances
+    wd:Q47154513 # structural class of chemical compounds
+  }
+  ?item wdt:P31 ?classes. # instance of
+  ?item wdt:P235 'QOVGHDRCAGYGEB-FFZYJECLSA-N' # InChiKey
+  {
+    ?item p:P1582 ?stmt. # natural product of taxon
+    ?stmt ps:P1582 ?taxon. # natural product of taxon
+    OPTIONAL {
+      ?stmt prov:wasDerivedFrom ?ref. 
+      ?ref pr:P248 ?art. # stated in
+    }
+  }
+  UNION
+  {
+    ?item p:P703 ?stmt. # found in taxon
+    ?stmt ps:P703 ?taxon. # found in taxon
+    OPTIONAL {
+      ?stmt prov:wasDerivedFrom ?ref.
+      ?ref pr:P248 ?art. # stated in
+    }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language &quot;[AUTO_LANGUAGE],en&quot;. }
+}
+</code></pre>
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://lotus.nprod.net/post/tuto-wd-entry-creation/&amp;text=Tuto%20Wd%20Entry%20Creation" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://lotus.nprod.net/post/tuto-wd-entry-creation/&amp;t=Tuto%20Wd%20Entry%20Creation" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Tuto%20Wd%20Entry%20Creation&amp;body=https://lotus.nprod.net/post/tuto-wd-entry-creation/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://lotus.nprod.net/post/tuto-wd-entry-creation/&amp;title=Tuto%20Wd%20Entry%20Creation" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Tuto%20Wd%20Entry%20Creation%20https://lotus.nprod.net/post/tuto-wd-entry-creation/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://lotus.nprod.net/post/tuto-wd-entry-creation/&amp;title=Tuto%20Wd%20Entry%20Creation" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/pma/"><img class="avatar mr-3 avatar-circle" src="/authors/pma/avatar_huc4492473e78eac040735736be9437549_231872_270x270_fill_q75_lanczos_center.jpg" alt="Pierre-Marie Allard"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/pma/">Pierre-Marie Allard</a></h5>
+      <h6 class="card-subtitle">Researcher</h6>
+      <p class="card-text">TOODO</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-3389-2191" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:Pierre-Marie.Allard@unige.ch" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/NatprodCbn" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=bPfFArgAAAAJ&amp;hl" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/oolonek" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Pierre-Marie-Allard" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    CC0
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

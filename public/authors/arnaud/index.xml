@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnaud Gaudry | The LOTUS Initiative</title>
+    <link>https://lotus.nprod.net/authors/arnaud/</link>
+      <atom:link href="https://lotus.nprod.net/authors/arnaud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arnaud Gaudry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright>
+    <image>
+      <url>https://lotus.nprod.net/authors/arnaud/avatar_hu3a1ffb666865846ca57cf3ef6f72edcd_38563_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Arnaud Gaudry</title>
+      <link>https://lotus.nprod.net/authors/arnaud/</link>
+    </image>
+    
+  </channel>
+</rss>

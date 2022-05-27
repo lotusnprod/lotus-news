@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | The LOTUS Initiative</title>
+    <link>https://lotus.nprod.net/categories/</link>
+      <atom:link href="https://lotus.nprod.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright>
+    <image>
+      <url>https://lotus.nprod.net/media/icon_hub52889638c655c1dc95ac25ddcd1a92f_84651_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://lotus.nprod.net/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
