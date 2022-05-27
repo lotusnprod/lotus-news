@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Lotus Publication"
+title: "The LOTUS initiative for open knowledge management in natural products research"
 authors: 
 - adriano
 - maria
