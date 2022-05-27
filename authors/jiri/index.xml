@@ -5,12 +5,20 @@
     <link>https://lotus.nprod.net/authors/jiri/</link>
       <atom:link href="https://lotus.nprod.net/authors/jiri/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiří Vondrášek</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright><lastBuildDate>Fri, 27 May 2022 10:22:26 +0200</lastBuildDate>
     <image>
       <url>https://lotus.nprod.net/authors/jiri/avatar_hu6d85e2e9055c4e10b1fbf6e99e9041e5_70866_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiří Vondrášek</title>
       <link>https://lotus.nprod.net/authors/jiri/</link>
     </image>
+    
+    <item>
+      <title>Lotus Publication</title>
+      <link>https://lotus.nprod.net/publication/lotus-publication/</link>
+      <pubDate>Fri, 27 May 2022 10:22:26 +0200</pubDate>
+      <guid>https://lotus.nprod.net/publication/lotus-publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata</title>

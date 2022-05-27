@@ -5,12 +5,20 @@
     <link>https://lotus.nprod.net/authors/pma/</link>
       <atom:link href="https://lotus.nprod.net/authors/pma/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre-Marie Allard</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC0</copyright><lastBuildDate>Fri, 27 May 2022 10:22:26 +0200</lastBuildDate>
     <image>
       <url>https://lotus.nprod.net/authors/pma/avatar_huc4492473e78eac040735736be9437549_231872_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Pierre-Marie Allard</title>
       <link>https://lotus.nprod.net/authors/pma/</link>
     </image>
+    
+    <item>
+      <title>Lotus Publication</title>
+      <link>https://lotus.nprod.net/publication/lotus-publication/</link>
+      <pubDate>Fri, 27 May 2022 10:22:26 +0200</pubDate>
+      <guid>https://lotus.nprod.net/publication/lotus-publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The LOTUS Initiative for Open Natural Products Research: Knowledge Management through Wikidata</title>
