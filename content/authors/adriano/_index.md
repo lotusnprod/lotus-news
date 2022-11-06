@@ -14,19 +14,22 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Geneva
-  url: "https://ispso.unige.ch/ispso/"
+- name: ETH Zürich
+  url: "https://imsb.ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Bitter is better.
 
 interests:
-- Phytochemistry
-- Chemotaxonomy
+- Metabolomics
+- Pharmacognosy
 - Bitterness
 
 education:
   courses:
+  - course: PhD in Pharmaceutical Sciences
+    institution: University of Geneva
+    year: 2022
   - course: MSc in Pharmaceutical Sciences
     institution: University of Geneva
     year: 2016
@@ -44,7 +47,7 @@ social:
   link: 'https://orcid.org/0000-0003-0443-9902'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adriano.rutz@unige.ch'
+  link: 'mailto:rutz@imsb.biol.ethz.ch'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/adrianorutz/
@@ -71,7 +74,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "adriano.rutz@unige.ch"
+email: "adriano.rutz@hotmail.ch"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
