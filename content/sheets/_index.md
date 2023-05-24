@@ -4,10 +4,10 @@ widget: hero
 subtitle: ""
 design:
   columns: "1"
-hero_media: lotus_sheets.png
+hero_media: logo.svg
 
 ---
 
 This project is currently only available to beta-testers, contact us for more info.
 
-![Lotus Sheets logo](lotus_sheets.png)
+![Lotus logo](logo.svg)

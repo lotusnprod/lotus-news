@@ -7,7 +7,7 @@ widget_id: recent-posts
 headless: true
 weight: 10
 title: The LOTUS Initiative
-hero_media: https://upload.wikimedia.org/wikipedia/commons/6/64/Lotus_initiative_logo.svg
+hero_media: logo.svg
 subtitle: ""
 design:
   columns: "1"
