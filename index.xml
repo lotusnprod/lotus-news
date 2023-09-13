@@ -121,7 +121,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-15-54.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-15-54.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;From there, you can fetch the compound&amp;rsquo;s name, InChIKey and InChI as well as its Canonical and Isomeric SMILES.
@@ -152,7 +152,7 @@ Here we keep, respectively:&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-27-18-40-20.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-27-18-40-20.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Alternatively, you can use &lt;a href=&#34;https://github.com/gnames/gnfinder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gnfinder&lt;/a&gt; in your command line interface to check for the spelling of your organism string.&lt;/p&gt;
@@ -248,7 +248,7 @@ For &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1021/OL2030907&#34; target=&#3
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-18-03.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-18-03.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;An empty page with a new Wikidata identifier is created&lt;/p&gt;
@@ -270,7 +270,7 @@ For &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1021/OL2030907&#34; target=&#3
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-18-50.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-18-50.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;add-the-chemical-compound-information-a-nameadd_chemicala&#34;&gt;Add the chemical compound information &lt;a name=&#34;add_chemical&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
@@ -293,7 +293,7 @@ For &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1021/OL2030907&#34; target=&#3
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-20-08.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-20-08.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;and select chemical compound (i.e. &lt;a href=&#34;https://www.wikidata.org/wiki/Q11173&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Q11173&lt;/a&gt;):&lt;/p&gt;
@@ -315,7 +315,7 @@ For &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1021/OL2030907&#34; target=&#3
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-20-58.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-20-58.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Click &lt;code&gt;publish&lt;/code&gt; to save your changes and make them public.&lt;/p&gt;
@@ -338,7 +338,7 @@ For &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1021/OL2030907&#34; target=&#3
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-22-44.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-22-44.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;You can then go on and fill these in.&lt;/p&gt;
@@ -362,7 +362,7 @@ Note the little flag which will automatically tell you if you have some problems
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-24-34.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-24-34.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Here, Wikidata tells us that if we add an InChiKey, we will need to also add an InChI. Logical, but good to have a reminder !&lt;/p&gt;
@@ -394,7 +394,7 @@ CC1C2C(C3C4C1(C5=CC(=C(Cl)Cl)C(C5(C(C6(C4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-31-56.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-31-56.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Again, type in the first letters of the taxon, and if the organism is present, it will autocomplete. Here is how this looks like for &lt;em&gt;Trigonostemon cherrieri&lt;/em&gt;:&lt;/p&gt;
@@ -416,7 +416,7 @@ CC1C2C(C3C4C1(C5=CC(=C(Cl)Cl)C(C5(C(C6(C4O6)COC(=O)C)OC(=O)C)O)OC(=O)C7=CC=CC=C7
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-33-14.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-33-14.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Click &lt;code&gt;publish&lt;/code&gt; to save your changes and make them public.&lt;/p&gt;
@@ -442,7 +442,7 @@ This happens on the item about the compound, just below the &lt;code&gt;found in
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-35-33.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-35-33.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Here, we use the &lt;code&gt;stated in&lt;/code&gt; property (&lt;a href=&#34;https://www.wikidata.org/wiki/Property:P248&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;P248&lt;/a&gt;):&lt;/p&gt;
@@ -464,7 +464,7 @@ This happens on the item about the compound, just below the &lt;code&gt;found in
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-36-33.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-36-33.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Now, type in the first letters or word of the scientific publication documenting the natural product occurence, autocompletion happens again. Note that multiple publications might have the same title, and that there could be minor differences in punctuation or special characters between the information you and Wikidata have about the same reference. If you are not sure whether your target reference is already in Wikidata, you can use its DOI to check, as outlined in the &lt;a href=&#34;#check_ref&#34;&gt;Check whether your target reference is already on Wikidata&lt;/a&gt; section.&lt;/p&gt;
@@ -486,7 +486,7 @@ This happens on the item about the compound, just below the &lt;code&gt;found in
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-38-54.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-38-54.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Click &lt;code&gt;publish&lt;/code&gt; to save your changes and make them public.&lt;/p&gt;
@@ -508,7 +508,7 @@ This happens on the item about the compound, just below the &lt;code&gt;found in
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/images/2021-02-25-14-39-48.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-39-48.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;check-whether-your-target-reference-is-already-on-wikidata-a-namecheck_refa&#34;&gt;Check whether your target reference is already on Wikidata &lt;a name=&#34;check_ref&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
