@@ -231,13 +231,14 @@ For &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1021/OL2030907&#34; target=&#3
     wd:Q79529 # chemical substance
     wd:Q17339814 # group of chemical substances
     wd:Q47154513 # structural class of chemical compounds
+    wd:Q113145171 # type of chemical entity
   }
   ?item wdt:P31 ?classes. # instance of
-  ?item wdt:P235 &#39;QOVGHDRCAGYGEB-FFZYJECLSA-N&#39;
+  ?item wdt:P235 &#39;QOVGHDRCAGYGEB-FFZYJECLSA-N&#39; . # InChIKey 
   SERVICE wikibase:label { bd:serviceParam wikibase:language &amp;quot;[AUTO_LANGUAGE],en&amp;quot;. }
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;a href=&#34;https://w.wiki/32zU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Try this query&lt;/a&gt;. You can adapt it by replacing the InChIKey with the one for your compound.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://w.wiki/7Szk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Try this query&lt;/a&gt;. You can adapt it by replacing the InChIKey with the one for your compound.&lt;/p&gt;
 &lt;p&gt;Alternatively you can use the following Scholia link (replace by your compounds InChIKey) &lt;a href=&#34;https://scholia.toolforge.org/inchikey/QOVGHDRCAGYGEB-FFZYJECLSA-N&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholia.toolforge.org/inchikey/QOVGHDRCAGYGEB-FFZYJECLSA-N&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If your compound is already present on Wikidata, you can directly skip to the &lt;a href=&#34;#add_bio&#34;&gt;Add the biological source information&lt;/a&gt; section below.&lt;/p&gt;
 &lt;h2 id=&#34;add-your-data-manually-to-wikidata-a-nameadd_your_data_manuallya&#34;&gt;Add your data manually to Wikidata &lt;a name=&#34;add_your_data_manually&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
