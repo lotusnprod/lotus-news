@@ -121,7 +121,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-25-14-15-54.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/2021-02-25-14-15-54_huf206fe304613973899d00703b3510182_555013_fdd48d62c4e0659881b03dc3fd9ea288.png 400w,
+               /media/2021-02-25-14-15-54_huf206fe304613973899d00703b3510182_555013_a34ea1a47c6ae6037cdbd91f8d5cfaa0.png 760w,
+               /media/2021-02-25-14-15-54_huf206fe304613973899d00703b3510182_555013_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://lotus.nprod.net/media/2021-02-25-14-15-54_huf206fe304613973899d00703b3510182_555013_fdd48d62c4e0659881b03dc3fd9ea288.png&#34;
+               width=&#34;760&#34;
+               height=&#34;321&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;From there, you can fetch the compound&amp;rsquo;s name, InChIKey and InChI as well as its Canonical and Isomeric SMILES.
@@ -152,7 +159,14 @@ Here we keep, respectively:&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lotus.nprod.net/assets/media/2021-02-27-18-40-20.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/2021-02-27-18-40-20_hu7a2dbd662e4990d3409f34bf47bc0e0c_414439_07bcefdb1abcc70481140d2d1cd21d6d.png 400w,
+               /media/2021-02-27-18-40-20_hu7a2dbd662e4990d3409f34bf47bc0e0c_414439_90a776d6851232362a200eb538618ae9.png 760w,
+               /media/2021-02-27-18-40-20_hu7a2dbd662e4990d3409f34bf47bc0e0c_414439_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://lotus.nprod.net/media/2021-02-27-18-40-20_hu7a2dbd662e4990d3409f34bf47bc0e0c_414439_07bcefdb1abcc70481140d2d1cd21d6d.png&#34;
+               width=&#34;760&#34;
+               height=&#34;528&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Alternatively, you can use &lt;a href=&#34;https://github.com/gnames/gnfinder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gnfinder&lt;/a&gt; in your command line interface to check for the spelling of your organism string.&lt;/p&gt;
