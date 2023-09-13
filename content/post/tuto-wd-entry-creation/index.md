@@ -160,34 +160,34 @@ If you are unfamiliar with how Wikidata works, you can start by reading the Wiki
 Now that you are all set up, you can go to Wikidata's page for creating new items, [https://www.wikidata.org/wiki/Special:NewItem](https://www.wikidata.org/wiki/Special:NewItem):
 
 
-![](/assets/media/2021-02-25-14-18-03.png)
+![](2021-02-25-14-18-03.png)
 
 An empty page with a new Wikidata identifier is created 
 
-![](/assets/media/2021-02-25-14-18-50.png)
+![](2021-02-25-14-18-50.png)
 
 ### Add the chemical compound information <a name="add_chemical"></a>
 
 Create a new statement for ```is an instance of```
 
-![](/assets/media/2021-02-25-14-20-08.png)
+![](2021-02-25-14-20-08.png)
 
 and select chemical compound (i.e. [Q11173](https://www.wikidata.org/wiki/Q11173)):
 
-![](/assets/media/2021-02-25-14-20-58.png)
+![](2021-02-25-14-20-58.png)
 
 Click ```publish``` to save your changes and make them public.
 
 Since you created a new item about an instance of a chemical compound, the user interface will automatically propose to you a set of additional statements commonly found on items about chemical compounds.
 
-![](/assets/media/2021-02-25-14-22-44.png)
+![](2021-02-25-14-22-44.png)
 
 You can then go on and fill these in.
 
 Here, we start with the InChIKey. 
 Note the little flag which will automatically tell you if you have some problems with the recently created statements.
 
-![](/assets/media/2021-02-25-14-24-34.png)
+![](2021-02-25-14-24-34.png)
 
 Here, Wikidata tells us that if we add an InChiKey, we will need to also add an InChI. Logical, but good to have a reminder !
 
@@ -209,11 +209,11 @@ Now let's add the ```found in taxon``` property ([P703](https://www.wikidata.org
 
 Just click on ```Add a new statement``` and type in the first letters of the property you want to add:
 
-![](/assets/media/2021-02-25-14-31-56.png)
+![](2021-02-25-14-31-56.png)
 
 Again, type in the first letters of the taxon, and if the organism is present, it will autocomplete. Here is how this looks like for _Trigonostemon cherrieri_:
 
-![](/assets/media/2021-02-25-14-33-14.png)
+![](2021-02-25-14-33-14.png)
 
 Click ```publish``` to save your changes and make them public.
 
@@ -226,19 +226,19 @@ If your target taxon is not yet present on Wikidata and you are sure you have a 
 Finally, since we report documented structure-organisms pairs, we need to add the reference for this newly created ```compound found in taxon``` relationship.
 This happens on the item about the compound, just below the ```found in taxon``` statement. Click on the ```0 references``` link and then on ```add reference```:
 
-![](/assets/media/2021-02-25-14-35-33.png)
+![](2021-02-25-14-35-33.png)
 
 Here, we use the ```stated in``` property ([P248](https://www.wikidata.org/wiki/Property:P248)):
 
-![](/assets/media/2021-02-25-14-36-33.png)
+![](2021-02-25-14-36-33.png)
 
 Now, type in the first letters or word of the scientific publication documenting the natural product occurence, autocompletion happens again. Note that multiple publications might have the same title, and that there could be minor differences in punctuation or special characters between the information you and Wikidata have about the same reference. If you are not sure whether your target reference is already in Wikidata, you can use its DOI to check, as outlined in the [Check whether your target reference is already on Wikidata](#check_ref) section.
 
-![](/assets/media/2021-02-25-14-38-54.png)
+![](2021-02-25-14-38-54.png)
 
 Click ```publish``` to save your changes and make them public.
 
-![](/assets/media/2021-02-25-14-39-48.png)
+![](2021-02-25-14-39-48.png)
 
 ### Check whether your target reference is already on Wikidata <a name="check_ref"></a>
 
