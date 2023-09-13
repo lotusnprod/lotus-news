@@ -47,7 +47,7 @@ Throughout this demonstration, we are going to use the following example:
 
 Search PubChem for your compound, here [trigocherrin A](https://pubchem.ncbi.nlm.nih.gov/#query=%22trigocherrin%20A%22). This leads to [https://pubchem.ncbi.nlm.nih.gov/compound/101556657](https://pubchem.ncbi.nlm.nih.gov/compound/101556657).
 
-![](/assets/media/2021-02-25-14-15-54.png)
+![](2021-02-25-14-15-54.png)
 
 From there, you can fetch the compound's name, InChIKey and InChI as well as its Canonical and Isomeric SMILES.
 Here we keep, respectively:
@@ -64,7 +64,7 @@ Here we keep, respectively:
 
 You can check if your organism name is correctly spelled using the Global Names resolver service: [http://gni.globalnames.org/name_strings?search_term=trigonostemon+cherrieri&commit=Search](http://gni.globalnames.org/name_strings?search_term=trigonostemon+cherrieri&commit=Search).
 
-![](/assets/media/2021-02-27-18-40-20.png)
+![](2021-02-27-18-40-20.png)
 
 Alternatively, you can use [gnfinder](https://github.com/gnames/gnfinder) in your command line interface to check for the spelling of your organism string.
  
