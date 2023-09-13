@@ -139,13 +139,14 @@ SELECT ?item ?itemLabel WHERE {
     wd:Q79529 # chemical substance
     wd:Q17339814 # group of chemical substances
     wd:Q47154513 # structural class of chemical compounds
+    wd:Q113145171 # type of chemical entity
   }
   ?item wdt:P31 ?classes. # instance of
-  ?item wdt:P235 'QOVGHDRCAGYGEB-FFZYJECLSA-N'
+  ?item wdt:P235 'QOVGHDRCAGYGEB-FFZYJECLSA-N' . # InChIKey 
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 ```
-[Try this query](https://w.wiki/32zU). You can adapt it by replacing the InChIKey with the one for your compound.
+[Try this query](https://w.wiki/7Szk). You can adapt it by replacing the InChIKey with the one for your compound.
 
 Alternatively you can use the following Scholia link (replace by your compounds InChIKey) [https://scholia.toolforge.org/inchikey/QOVGHDRCAGYGEB-FFZYJECLSA-N](https://scholia.toolforge.org/inchikey/QOVGHDRCAGYGEB-FFZYJECLSA-N) 
 
